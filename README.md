@@ -20,4 +20,8 @@
 
 ### 首次发布，仅实现了定时功能（以秒为单位），变量命名也不太规范。
 
+## 2026.9.12
+
+### 重写了整个程序，实现了完整功能。
+
 ### For the first release, only the timing function (in seconds) was implemented, and the variable naming was not very standardized.
